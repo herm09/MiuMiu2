@@ -1,0 +1,17 @@
+/* ----------------------- DIVISION RECENT TWEETS -----------------------*/
+
+.recenttweet {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(27, 26, 26);
+    overflow-y: scroll;
+    height: 60vh;
+}
+
+.articles {
+    color: white;
+}
+
+.Rechercher {
+    color: white;
+}

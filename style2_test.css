@@ -1,0 +1,14 @@
+@import url('components/banner2.style.css');
+@import url('components/inscription.style.css');
+
+/*----------- BODY -----------*/
+
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    transition: ease-in-out 1s;
+}
+
+body{
+    background-color: white;
+}
